@@ -9,3 +9,5 @@
   - Electronic Devices Database and Website built with Php, Html, Css, MySQL, and some Javascript.
 ### [Rideshare Application](./Screenshots) (Senior Design Project, Closed Source)
   - Built with Flutter/Dart and Firebase for Android, iOS, and web.
+### [2048 AI](https://github.com/KevsOnTheBus/2048-AI)
+  - AI algorithms for the puzzle game 2048
